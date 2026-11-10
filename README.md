@@ -3,7 +3,7 @@
 Hi~ I'm **Evlyn** (Ev1yn), a high-school developer from Thailand and Co-Founder of **LMD TEAM**. I build websites, Discord bots and anything that challenges me, from the frontend to the backend and on-chain. Still learning every day while studying, but welcome to my profile! <3
 
 ## My Top Skills
-<sub>189 skills, the same list as on <a href="https://ev1yn.online/about">ev1yn.online/about</a>. Click an icon to learn it.</sub>
+<sub>189 skills, the same list as on <a href="https://ev1yn.online">ev1yn.online/about</a>. Click an icon to learn it.</sub>
 
 #### Programming Languages · 41
 <p>
